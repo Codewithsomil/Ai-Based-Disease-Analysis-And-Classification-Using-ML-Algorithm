@@ -1,0 +1,1 @@
+An AI-powered disease detection system that predicts possible illnesses based on user-input symptoms using machine learning models like Random Forest, Decision Tree, KNN, and Naive Bayes. Built with Python and a simple HTML interface for real-time interaction.
